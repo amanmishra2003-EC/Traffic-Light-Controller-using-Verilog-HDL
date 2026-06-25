@@ -141,7 +141,19 @@ Simulation results matched the expected FSM behavior.
 
 ## Simulation Results
 
-Insert Vivado Waveform Screenshot Here
+RTL Schematic 
+
+<img width="2434" height="1538" alt="RTL_Schematic" src="https://github.com/user-attachments/assets/54e55a25-38cc-4f8a-9e52-b2576fe6d438" />
+
+Synthesized Schematic
+<img width="2430" height="1538" alt="Synthesized_schematic" src="https://github.com/user-attachments/assets/f5b0933e-b2b7-43b8-8b82-d30cc6b8de40" />
+
+Behavioral Simulation
+<img width="2408" height="1508" alt="Behavioral_simulation" src="https://github.com/user-attachments/assets/e517ef14-5a43-4238-8b26-3d7f4ee03c0e" />
+
+Post synthesis functional simulation
+<img width="2414" height="1540" alt="Post_synthesis _functional_simulation" src="https://github.com/user-attachments/assets/fd5ad2bf-5bab-44bd-87d9-30d106bf1729" />
+
 
 ---
 
@@ -191,6 +203,6 @@ Insert Vivado Waveform Screenshot Here
 B.Tech Electronics Engineering
 Aspiring RTL Design Engineer | ASIC Design Engineer | FPGA Engineer
 
-LinkedIn: Add Your LinkedIn Link
+LinkedIn: https://www.linkedin.com/in/aman-mishra-17a24b-mishaar/
 
-GitHub: Add Your GitHub Profile Link
+GitHub: https://github.com/amanmishra2003-EC?tab=repositories
