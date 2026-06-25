@@ -199,7 +199,8 @@ Post synthesis functional simulation
 ## Author
 
 **Aman Mishra**
-B.Tech Electronics Engineering
+B.Tech Electronics & Communication Engineering
+
 Aspiring RTL Design Engineer | ASIC Design Engineer | FPGA Engineer
 
 LinkedIn: https://www.linkedin.com/in/aman-mishra-17a24b-mishaar/
