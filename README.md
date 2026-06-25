@@ -193,7 +193,6 @@ Post synthesis functional simulation
 
 2. David Money Harris and Sarah L. Harris, *Digital Design and Computer Architecture*, Morgan Kaufmann.
 
-3. Samir Palnitkar, *Verilog HDL: A Guide to Digital Design and Synthesis*.
 
 ---
 
