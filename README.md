@@ -186,6 +186,10 @@ Post synthesis functional simulation
 * Adaptive Traffic Control
 
 ---
+## Project Report
+
+📄 [Traffic Light Controller Report](Downloads/Traffic_Light_Controller_Report.pdf)
+---
 
 ## References
 
